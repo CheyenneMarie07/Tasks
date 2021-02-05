@@ -67,8 +67,3 @@ dev.off()
 source("http://jonsmitchell.com/code/plotFxn02b.R")
 #New testable hypothesis that there is a correlation between the amount of solid food Beren eats and the bowel movements that are made or that there is a correlation with the amount of bottles of milk Beren consumes and the naps he takes.
 unique(beren3$event)
-
-
-
-
-
